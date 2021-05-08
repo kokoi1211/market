@@ -51,6 +51,7 @@ img {
   display: flex;
   flex-wrap: wrap;
   margin-top: 12px;
+  justify-content: space-around;
 }
 .product-card {
   width: 180px;
