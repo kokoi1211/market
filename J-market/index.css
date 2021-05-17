@@ -51,7 +51,8 @@ img {
   display: flex;
   flex-wrap: wrap;
   margin-top: 12px;
-  justify-content: space-around;
+  /*product-list 정렬부분*/
+ /* justify-content: space-around;*/
 }
 .product-card {
   width: 180px;
